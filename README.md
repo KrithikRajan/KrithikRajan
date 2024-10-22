@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm KrithikRaghav V</h1>
 <h3 align="center">A passionate Python and Game Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F643451865504790507%2F&psig=AOvVaw2ATFNW-_wfRxjm8Kd2oo_4&ust=1729700383462000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOio1ZqyookDFQAAAAAdAAAAABAK">
+<img align="right" alt="coding" width="400" src="https://github.com/KrithikRajan/KrithikRajan/blob/main/e426702edf874b181aced1e2fa5c6cde.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krithikrajan&label=Profile%20views&color=0e75b6&style=flat" alt="krithikrajan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krithikrajan" alt="krithikrajan" /></a> </p>
