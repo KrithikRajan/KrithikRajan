@@ -54,9 +54,10 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn"/>
   </a>
-  <a href="https://notion.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white" alt="notion"/>
-  </a>
+ <a href="https://notion.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white" alt="notion" width="90" height="30"/>
+</a>
+
 </p>
 
 - 🔭 I’m currently working on **Prevention of Boat Capsizing and Boat Maintenance, VR project for Manufacturing company**
