@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm KrithikRaghav V</h1>
-<h3 align="center">A passionate Python and Game Developer</h3>
-
 <img align="right" alt="coding" width="400" src="https://github.com/KrithikRajan/KrithikRajan/blob/main/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <a href="https://visitcount.itsvg.in">
