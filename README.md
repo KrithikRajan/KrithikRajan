@@ -3,7 +3,9 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/KrithikRajan/KrithikRajan/blob/main/e426702edf874b181aced1e2fa5c6cde.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krithikrajan&label=Profile%20views&color=0e75b6&style=flat" alt="krithikrajan" /> </p>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=KrithikRajan&label=Profile%20Views&color=0&icon=5&pretty=false" />
+</a>
 
 <h3 align="left">Tech and Tools:</h3>
 <p align="left">
