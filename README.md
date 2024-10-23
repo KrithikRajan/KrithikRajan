@@ -6,22 +6,22 @@
 
 <h3 align="left">Tech and Tools:</h3>
 <p align="left">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="unity"/>
   </a>
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="csharp"/>
   </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="cplusplus"/>
   </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="mssql"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -54,10 +54,14 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn"/>
   </a>
- <a href="https://notion.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white" alt="notion" width="90" height="30"/>
-</a>
+  <a href="https://notion.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="notion" width="90" height="30"/>
+  </a>
+</p>
 
+<h3 align="left">Music:</h3>
+<p align="left">
+  <iframe width="300" height="80" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/299748285&color=%23000000&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 </p>
 
 - 🔭 I’m currently working on **Prevention of Boat Capsizing and Boat Maintenance, VR project for Manufacturing company**
@@ -82,23 +86,19 @@
    <a href="https://discord.gg/9144" target="blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-    <a href="https://leetcode.com/u/user8318wu/" target="blank">
+  <a href="https://leetcode.com/u/user8318wu/" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
   <a href="https://www.hackerrank.com/v_krithikraghav" target="blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
-   <a href="https://instagram.com/krithik_vr08" target="blank">
+  <a href="https://instagram.com/krithik_vr08" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/vkrithikab4w" target="blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
   </a>
-  <a href="https://stackoverflow.com/users/26183109/krithikraghav-v" target="blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
-  </a>
 </p>
-
 <h3 align="left">Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krithikrajan&show_icons=true&locale=en&layout=compact&theme=blueberry" alt="krithikrajan" /></p>
 
@@ -110,4 +110,5 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=krithikrajan&theme=onestar" alt="krithikrajan"/>
   </a>
+</p>
 </p>
