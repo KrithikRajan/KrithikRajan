@@ -59,16 +59,6 @@
   </a>
 </p>
 
-<div align="left" style="background-color: #f8f8f8; border: 2px solid #e0e0e0; border-radius: 10px; padding: 20px; width: 100%; max-width: 400px; margin: 20px auto; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <h3 style="color: #333;">Music</h3>
-  <audio controls style="width: 100%;">
-    <source src="your-audio-file.mp3" type="audio/mpeg">
-    Your browser does not support the audio element.
-  </audio>
-  <p style="color: #555;">Listen to my favorite track!</p>
-</div>
-
-
 
 - 🔭 I’m currently working on **Prevention of Boat Capsizing and Boat Maintenance, VR project for Manufacturing company**
 
